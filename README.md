@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luqman bin Azman</h1>
 <h3 align="center">A passionate indie game developer but as for now focusing on other projects</h3>
 
-- 📫 How to reach me **luqman010305gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
