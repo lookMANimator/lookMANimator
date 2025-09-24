@@ -41,8 +41,8 @@ Here are some projects I'm particularly proud of:
 **Tech Stack:** Visual Basics, Visual Studio, SQL
 A comprehensive data analysis project that explores [brief description]. This project demonstrates my ability to clean, analyze, and visualize data to extract meaningful insights.
 
-[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/luqmanazman/project1)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-flat-square)](https://github.com/luqmanazman/project1)
+[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/ZakatEyz-Project)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-flat-square)](https://github.com/luqmanazman/project1) 
 
 ---
 
