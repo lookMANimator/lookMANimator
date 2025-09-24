@@ -65,13 +65,13 @@ A performance-optimized application that solves [brief description]. This projec
 I'm always open to discussing data analytics, internship opportunities, or just chatting about tech!
 
 <a href="www.linkedin.com/in/luqman-bin-azman" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/lookMANimator" target="blank">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
-<a href="mailto:your-email@example.com" target="blank">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+<a href="mailto:luqman010305@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 
 ---
