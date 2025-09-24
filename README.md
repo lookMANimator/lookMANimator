@@ -12,10 +12,7 @@ I'm a passionate data analytics student who loves uncovering stories hidden in d
 
 **Languages & Tools I Work With:**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,figma,java,js,php,py,unity,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 ---
 
