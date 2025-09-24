@@ -1,8 +1,8 @@
 # Hi there, I'm Luqman Azman! 👋
 
-** 'Data Analytics Student | Turning Data into Insights' **
+**`Data Analytics Student | Turning Data into Insights`**
 
-I'm a passionate data analytics student who loves uncovering stories hidden in data. When I'm not crunching numbers, you'll find me exploring new datasets or figuring out how to make analytics more accessible and impactful.
+I'm a passionate data analytics student who loves uncovering stories hidden in data. When I'm not crunching numbers, you'll find me exploring the game development side of the digital world and made a soul promise to create a indie game.
 
 > 🚀 *Currently seeking internship opportunities in Data Analytics*
 
@@ -16,8 +16,6 @@ I'm a passionate data analytics student who loves uncovering stories hidden in d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -38,9 +36,9 @@ I'm a passionate data analytics student who loves uncovering stories hidden in d
 
 Here are some projects I'm particularly proud of:
 
-### 📊 Project 1: [Project Name]
+### 📊 Project 1: ZakatEyz Application
 ![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+1)
-**Tech Stack:** Python, Pandas, Matplotlib  
+**Tech Stack:** Visual Basics, Visual Studio, SQL
 A comprehensive data analysis project that explores [brief description]. This project demonstrates my ability to clean, analyze, and visualize data to extract meaningful insights.
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/luqmanazman/project1)
