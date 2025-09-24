@@ -76,7 +76,7 @@ I'm always open to discussing data analytics, internship opportunities, or just 
 <div align="center">
 
 ### ⚡ Fun Fact:
-*When I'm not analyzing data, I'm probably [your hobby here] or exploring new coffee shops!*
+*When I'm not analyzing data, I'm probably developing new games or exploring new food stalls!*
 
 **Thanks for visiting my profile!** 😄
 
@@ -91,4 +91,4 @@ I'm always open to discussing data analytics, internship opportunities, or just 
 - Data Visualization best practices
 - Big Data technologies
 
-*Last updated: {{current_date}}*
+*Last updated: {24 Sept 2025}*
