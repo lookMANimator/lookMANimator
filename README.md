@@ -34,27 +34,32 @@ I'm a passionate data analytics student who loves uncovering stories hidden in d
 Here are some projects I'm particularly proud of:
 
 ### 📊 Project 1: ZakatEyz Application
-![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+1)
+![Project Image](https://github.com/lookMANimator/lookMANimator/blob/main/ZakatEzy%20Title.png)
+
 **Tech Stack:** Visual Basics, Visual Studio, SQL
-A comprehensive data analysis project that explores [brief description]. This project demonstrates my ability to clean, analyze, and visualize data to extract meaningful insights.
+
+ZakatEZy is a software application system that solves the zakat payment process's problems, which include time-consuming, unclear instructions, and insecure transactions.
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/ZakatEyz-Project)
 
 ---
 
 ### 📈 Project 2: HantU - A Swarm Game
-![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+2)
+![Project Image](https://github.com/lookMANimator/lookMANimator/blob/main/HantU%20Title.png)
+
 **Tech Stack:** C++, Unity, OOP  
-An interactive dashboard that showcases [brief description]. Built with a focus on user experience and data storytelling.
+
+Using the OOP basis to develop a game with the theme 'Swarm', and after some discussion with team members we finalize with a game where Malaysian ghost will swarm and chase player.
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/HantU-OOP-)
 
 ---
 
 ### ⚡ Project 3: Recreating The PacMan Game
-![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+3)
+
 **Tech Stack:** C++, Unity  
-A performance-optimized application that solves [brief description]. This project highlights my understanding of efficient algorithms and memory management.
+
+Made for my Artificial Intelligent course, mainly focusing on the AI pathfinding to determine it's next position in reaching it's respective destination. As there are 4 different ghost in PacMan in which each of them have their own AI pathfinding by closing in with the player, blocking the player next move or even trapping the player.
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/Recreating-The-PacMan-Game)
 
