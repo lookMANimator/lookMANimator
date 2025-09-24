@@ -67,9 +67,15 @@ A performance-optimized application that solves [brief description]. This projec
 
 I'm always open to discussing data analytics, internship opportunities, or just chatting about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luqman-bin-azman)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luqmanazman)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="www.linkedin.com/in/luqman-bin-azman" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/lookMANimator" target="blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+</a>
 
 ---
 
