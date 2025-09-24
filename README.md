@@ -1,6 +1,6 @@
 # Hi there, I'm Luqman Azman! 👋
 
-**Data Analytics Student | Turning Data into Insights**
+** 'Data Analytics Student | Turning Data into Insights' **
 
 I'm a passionate data analytics student who loves uncovering stories hidden in data. When I'm not crunching numbers, you'll find me exploring new datasets or figuring out how to make analytics more accessible and impactful.
 
