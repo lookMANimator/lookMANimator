@@ -39,27 +39,24 @@ Here are some projects I'm particularly proud of:
 A comprehensive data analysis project that explores [brief description]. This project demonstrates my ability to clean, analyze, and visualize data to extract meaningful insights.
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/ZakatEyz-Project)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-flat-square)](https://github.com/luqmanazman/project1) 
 
 ---
 
-### 📈 Project 2: [Project Name]
+### 📈 Project 2: HantU - A Swarm Game
 ![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+2)
-**Tech Stack:** SQL, Python, Tableau  
+**Tech Stack:** C++, Unity, OOP  
 An interactive dashboard that showcases [brief description]. Built with a focus on user experience and data storytelling.
 
-[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/luqmanazman/project2)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-flat-square)](https://github.com/luqmanazman/project2)
+[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/HantU-OOP-)
 
 ---
 
-### ⚡ Project 3: [Project Name]
+### ⚡ Project 3: Recreating The PacMan Game
 ![Project Image](https://via.placeholder.com/800x400/4d4d4d/ffffff?text=Project+Screenshot+3)
-**Tech Stack:** C++, Data Structures, Algorithms  
+**Tech Stack:** C++, Unity  
 A performance-optimized application that solves [brief description]. This project highlights my understanding of efficient algorithms and memory management.
 
-[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/luqmanazman/project3)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-flat-square)](https://github.com/luqmanazman/project3)
+[![View Code](https://img.shields.io/badge/View-Code-blue?style=for-the-flat-square)](https://github.com/lookMANimator/Recreating-The-PacMan-Game)
 
 ---
 
